@@ -1,10 +1,10 @@
 import "./App.css";
 import React from "react";
 import { BrowserRouter, Route, Routes } from "react-router-dom";
-import Paginaprincipal from "./src/Componentes/Paginaprincipal";
-import Contacto from "./my-portfolio/src/Componentes/Contacto";
-import Proyectos from "./src/Componentes/Proyectos";
-import Skills from "./src/Componentes/Skills";
+import Paginaprincipal from "./Componentes/Paginaprincipal/paginaPrincipal";
+import Contacto from "./Componentes/Contacto/Contacto";
+import Proyectos from "./Componentes/Proyectos/Proyectos";
+import Skills from "./Componentes/Skills/Skills";
 
 function App() {
   return (
