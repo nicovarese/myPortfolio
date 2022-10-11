@@ -4,7 +4,7 @@ import { BrowserRouter, Route, Routes } from "react-router-dom";
 import Paginaprincipal from "./Componentes/Paginaprincipal/paginaPrincipal";
 import Contacto from "./Componentes/Contacto/Contacto";
 import Proyectos from "./Componentes/Proyectos/Proyectos";
-import Skills from "./Componentes/Skills/Skills";
+import About from "./Componentes/About/About";
 
 function App() {
   return (
@@ -13,7 +13,7 @@ function App() {
         <Route path="/" element={<Paginaprincipal />} />
         <Route path="/Contacto" element={<Contacto />} />
         <Route path="/Proyectos" element={<Proyectos />} />
-        <Route path="/Skills" element={<Skills />} />
+        <Route path="/About" element={<About />} />
       </Routes>
     </BrowserRouter>
   );

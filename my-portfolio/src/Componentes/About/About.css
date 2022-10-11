@@ -51,17 +51,15 @@
     transform: none;
   }
 }
-.contactos {
-  margin-top: 20vh;
-  color: white;
-}
 
-.logoLinkedin {
-  width: 18vh;
-  height: 15vh;
-}
-
-.imagenSocialMedia {
+.textoDePresentacion {
+  width: 30vw;
+  height: 30vh;
   display: flex;
-  margin-left: 30vh;
+  color: white;
+  margin-left: 20vw;
+}
+
+.texto {
+  color: white;
 }
