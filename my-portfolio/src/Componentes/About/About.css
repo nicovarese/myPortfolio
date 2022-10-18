@@ -63,3 +63,21 @@
 .texto {
   color: white;
 }
+
+.lenguajesBootcamp {
+  width: 30vw;
+  height: 30vh;
+  margin-left: 55vw;
+  color: white;
+  margin-top: -300px;
+}
+
+.listaLenguajes {
+  color: white;
+}
+
+.logoLenguajes {
+  width: 5vw;
+  height: 5vh;
+  display: flex;
+}
