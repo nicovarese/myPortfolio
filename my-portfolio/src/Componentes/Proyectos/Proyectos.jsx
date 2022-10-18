@@ -109,7 +109,7 @@ function Proyectos() {
           <img
             className="imagenResponsive"
             src={modalResponsive}
-            alt="paginaResponsive1"
+            alt="paginaResponsive2"
           />
         </div>
         <div className="githubProjectLink">
